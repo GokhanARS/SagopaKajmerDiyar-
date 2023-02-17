@@ -1,0 +1,69 @@
+*{
+    color: #fff;
+    margin: 0;
+    padding: 0;
+    position: relative;
+}
+.arkaplan{
+    background-color: black;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: relative;
+}
+.baslik1{
+    text-align: center;
+    margin-top: 30px;
+    border-top: 4px solid #fff;
+    border-bottom: 4px solid #fff;
+    border-radius: 50px;
+    border-width: 7px; 
+}
+.koli{
+    display: grid;
+    grid-template-columns: 300px 300px 300px 300px 300px;
+    border: 2px solid #fff;
+    margin-top: 30px;
+    border-radius: 50px;
+    row-gap: 30px;
+}
+.sarki{
+    position: absolute;
+    left: 50px;
+    bottom: 5px;
+    width: 100px;
+    opacity: 0.1;
+    transition: 0.5s;
+}
+.sarki:hover{
+    transform: scaleX(1.2);
+    opacity: 1.0;
+}
+.music{
+    position: relative;
+    margin: 30px;
+}
+.sarkiadi{
+    display: flex;
+}
+.yazi{
+    font-size: 25px;
+}
+.resim{
+    border:1px solid #fff;
+}
+.album{
+    font-size: 30px;
+    text-decoration: none;
+    margin-right: 5%;
+    text-decoration: underline;
+}
+.album:hover{
+    color: blue;
+    text-decoration: none;
+}
+.ana{
+    text-align: center;
+    padding-bottom: 20px;
+    margin-top: 10px;
+}

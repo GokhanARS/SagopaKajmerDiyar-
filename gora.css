@@ -1,0 +1,44 @@
+.arkaplan{
+    background-image: url(SagoKResimler/GORA.jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 265px;
+    
+}
+.baslik1{
+    color: red;
+    font-weight: bold;
+    text-align: center;
+    font-size: 35px;
+}
+.music{
+    color: blue;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+.music-1{
+    text-align: center;
+    justify-self: center;
+    margin-top: 200px;
+}
+.music-2{
+    text-align: center;
+    justify-self: center;
+}
+.music-3{
+    text-align: center;
+    justify-self: center;
+    margin-top: 200px;
+}
+.album{
+    color: blue;
+    font-size: 30px;
+    text-decoration: none;
+    text-decoration: underline;
+    margin-inline-start: 690px;
+    
+}
+.album:hover{
+    color: purple;
+    text-decoration: none;
+}

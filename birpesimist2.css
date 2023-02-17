@@ -1,0 +1,148 @@
+.arkaplan{
+    background-image: url(SagoKResimler/BirPesimist.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 1350px;
+    height: 1350px;
+    padding-bottom: 50px;
+}
+.baslik1{
+    text-align: center;
+    font-weight: bold;
+    text-transform: capitalize;
+    font-size: 50px;
+    margin-top: 200px;
+    color: rgb(255, 224, 130);
+    margin-left: 270px;
+}
+.baslik2{
+    color: rgb(255, 224, 130);
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 25px;
+    margin-left: 40px;
+}
+.sarki-isimleri{
+    color: aliceblue;
+    font-weight: bold;
+    font-size: 23px;
+    font-style: italic;
+}
+.music{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    row-gap: 50px;
+    column-gap: 100px;
+    margin-inline-start: 40px;
+    margin-top: 50px;
+}
+.music-1{
+    align-self: center;
+    text-align: center;
+    border: 1px solid wheat;
+}
+.music-2{
+    align-self: center;
+    text-align: center;
+    border: 1px solid wheat;
+}
+.music-3{
+    align-self: center;
+    text-align: center;
+    border: 1px solid wheat;
+}
+.music-4{
+    align-self: center;
+    text-align: center;
+    border: 1px solid wheat;
+}
+.music-5{
+    align-self: center;
+    text-align: center;
+    border: 1px solid wheat;
+}
+.music-6{
+    align-self: center;
+    text-align: center;
+    border: 1px solid wheat;
+}
+.music-7{
+    align-self: center;
+    text-align: center;
+    border: 1px solid wheat;
+}
+.music-8{
+    align-self: center;
+    text-align: center;
+    border: 1px solid wheat;
+}
+.music-9{
+    align-self: center;
+    text-align: center;
+    border: 1px solid wheat;
+}
+.music-10{
+    align-self: center;
+    text-align: center;
+    border: 1px solid wheat;
+}
+.music-11{
+    align-self: center;
+    text-align: center;
+    border: 1px solid wheat;
+}
+.music-12{
+    align-self: center;
+    text-align: center;
+    border: 1px solid wheat;
+}
+.music-13{
+    align-self: center;
+    text-align: center;
+    border: 1px solid wheat;
+}
+.music-14{
+    align-self: center;
+    text-align: center;
+    border: 1px solid wheat;
+}
+.music-15{
+    align-self: center;
+    text-align: center;
+    border: 1px solid wheat;
+}
+.music-16{
+    align-self: center;
+    text-align: center;
+    border: 1px solid wheat;
+    
+}
+.bolum2{
+    color: aliceblue;
+    font-weight: bold;
+    font-size: 25px;
+    font-style: italic;
+    text-align: center;
+    margin-left: 40px;
+}
+.bolu{
+    color: aliceblue;
+    text-decoration: none;
+    
+}
+.bolu:hover{
+    cursor: pointer;
+    color: blue;
+    text-decoration: underline;
+
+}
+.album{
+    font-size: 30px;
+    text-decoration: none;
+    margin-left: 40px;
+    text-decoration: underline;
+}
+.album:hover{
+    color: blue;
+    text-decoration: none;
+}
