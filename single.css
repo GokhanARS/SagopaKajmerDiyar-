@@ -11,7 +11,7 @@
     background-size: cover;
     background-position: relative;
 }
-.baslik1{
+.baslikli1{
     text-align: center;
     margin-top: 30px;
     border-top: 4px solid #fff;
@@ -66,4 +66,55 @@
     text-align: center;
     padding-bottom: 20px;
     margin-top: 10px;
+}
+.kat{
+    background-color: black;
+    padding: 5px 5px;
+}
+.link{
+    color: #fff;
+}
+.kategori{
+    display: inline;
+    border: 3px solid black;
+    text-align: center;
+}
+.kategori a:link{
+    display: inline-block;
+    color: white;
+    margin-right: 30px;
+    margin-left: 10px;
+    text-decoration: none;
+    border: black;
+    font-size: 22px;
+    font-family: sans-serif;
+    margin-top: 3px;
+}
+.kategori a:hover{
+    color: black;
+    background-color: white;
+    text-decoration: none;
+    font-style: oblique;
+    font-weight: bold;
+}
+.icon{
+    display: flex;
+    background-color: black;
+    color: white;
+    justify-content: space-between;
+    align-items: center;
+}
+.baslik1{
+    cursor: default;
+    font-size: 70px;
+    font-weight: bold;
+    font-family: fantasy;
+    text-transform: uppercase;
+    margin-left: 4%;
+    color: #fff;
+}
+.melankolia{
+    background-color: black;
+    border: 5px solid black;
+    margin-right: 7%;
 }
