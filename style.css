@@ -18,13 +18,13 @@
     font-weight: bold;
     font-family: fantasy;
     text-transform: uppercase;
-    margin-left: 60px;
+    margin-left: 4%;
     color: #fff;
 }
 .melankolia{
     background-color: black;
     border: 5px solid black;
-    margin-right: 100px;
+    margin-right: 7%;
 }
 .sagoresim{
     height: 250px;
@@ -76,7 +76,7 @@
 .kategori a:hover{
     color: black;
     background-color: white;
-    text-decoration: underline;
+    text-decoration: none;
     font-style: oblique;
     font-weight: bold;
 }
