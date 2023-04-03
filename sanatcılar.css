@@ -1,0 +1,140 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-size: 18px;
+    font-family: sans-serif;
+    color: black;
+}
+.icon{
+    display: flex;
+    background-color: black;
+    color: white;
+    justify-content: space-between;
+    align-items: center;
+}
+.baslik1{
+    cursor: default;
+    font-size: 70px;
+    font-weight: bold;
+    font-family: fantasy;
+    text-transform: uppercase;
+    margin-left: 4%;
+    color: #fff;
+}
+.melankolia{
+    background-color: black;
+    border: 5px solid black;
+    margin-right: 7%;
+}
+.kat{
+    background-color: black;
+    padding: 5px 5px;
+}
+.link{
+    color: #fff;
+}
+.kategori{
+    display: inline;
+    border: 3px solid black;
+    text-align: center;
+}
+.kategori a:link{
+    display: inline-block;
+    color: white;
+    margin-right: 30px;
+    margin-left: 10px;
+    text-decoration: none;
+    border: black;
+    font-size: 22px;
+}
+.kategori a:hover{
+    color: black;
+    background-color: white;
+    text-decoration: none;
+    font-style: oblique;
+    font-weight: bold;
+}
+.kutu{
+    box-shadow: 10px -10px 10px rgba(160, 155, 155, 0.488);
+    background-color: rgb(194, 186, 186);
+    width: 1200px;
+    margin: 0px auto;
+    padding-bottom: 100%;
+}
+.body{
+    background-color: black ;
+}
+.koloresim{
+    padding: 1%;
+}
+.kolera{
+    border: 3px solid black;
+    display: flex;
+    position: relative;
+}
+.yazi{
+    font-size: 22px;
+    text-align: start;
+    align-self: center;
+    margin-inline: 20px;
+    line-height: 30px;
+}
+.isim1{
+    text-align: center;
+    margin-top: 2%;
+}
+.linkver{
+    border: 3px solid black;
+    border-bottom: 0;
+    border-right: 0;
+    position: absolute;
+    bottom: 0%;
+    right: 0%;
+    text-align: center;
+    padding-left: 20px;
+    padding-top: 5px;
+}
+.tus{
+    position: absolute;
+    left: 1%;
+    width: 20px; height: 20px;
+    background-color: rgb(194, 186, 186);
+    border-radius: 5px;
+}
+.sagolera{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin-top: 20px;
+    
+}
+.yolla1{
+    text-decoration: none;
+    text-transform: uppercase;
+    cursor: default;
+}
+.yolla{
+    text-decoration: none;
+    font-size: 20px;
+    color: grey;    
+}
+.linkver :hover{
+    color: black;
+}
+.ceza{
+    border: 3px solid black;
+    display: flex;
+    position: relative;
+}
+.cezaresim{
+    padding: 1%;
+}
+
+.drresim{
+    padding: 1%;
+}
+.drfuchs{
+    border: 3px solid black;
+    display: flex;
+    position: relative;
+}
+
