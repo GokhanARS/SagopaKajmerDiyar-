@@ -17,13 +17,13 @@
     font-weight: bold;
     font-family: fantasy;
     text-transform: uppercase;
-    margin-left: 60px;
+    margin-left: 4%;
     color: #fff;
 }
 .melankolia{
     background-color: black;
     border: 5px solid black;
-    margin-right: 100px;
+    margin-right: 7%;
 }
 .koli{
     display: grid;
@@ -58,22 +58,6 @@
 .dinle:hover{
     color: red;
     text-decoration: none;
-}
-.anasayfa a{
-    color: #fff;
-    margin-left: 50px;
-    font-weight: bold;
-    font-size: 22px;
-    text-transform: uppercase;
-    text-decoration: none;
-}
-.anasayfa a:hover{
-    color: rgb(254, 200, 99);
-    text-decoration: underline;
-    cursor: pointer;
-}
-.anasayfa a:visited{
-    color: rgb(153, 73, 233);
 }
 .yunusep{
     display: flex;
@@ -275,4 +259,33 @@
 .bosluk{
     background-color: black;
     padding-bottom: 40px;
+}
+.kat{
+    background-color: black;
+    padding: 5px 5px;
+    margin-bottom: 1%;
+}
+.link{
+    color: #fff;
+}
+.kategori{
+    display: inline;
+    border: 3px solid black;
+    text-align: center;
+}
+.kategori a:link{
+    display: inline-block;
+    color: white;
+    margin-right: 30px;
+    margin-left: 10px;
+    text-decoration: none;
+    border: black;
+    font-size: 22px;
+}
+.kategori a:hover{
+    color: black;
+    background-color: white;
+    text-decoration: none;
+    font-style: oblique;
+    font-weight: bold;
 }
